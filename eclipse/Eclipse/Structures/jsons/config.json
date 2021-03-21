@@ -1,0 +1,12 @@
+{
+    "token": "NzQ4MDA5OTczMDA2NzI5MzI4.X0XMkg.CZqjB-1fVVU49RsPodv9Pgt-vH0",
+    "prefix": "b.",
+    "versão": "1.0",
+    "color": "cor",
+    "clientID": "Spotify ID",
+    "clientSecret": "Spotify Secret",
+    "hook": {
+        "id": "800547872914538527",
+        "token": "PmsVI3McV-CY2pi0EYSSfzdak7XLn6Y9HONcAmc1mjOYu59f2SLxMivVfSjQw_REFUm4"
+    }
+}
